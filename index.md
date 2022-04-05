@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## [The Wide World of Internet of Things](https://www.youtube.com/watch?v=LlhmzVL5bm8)
+## [Palo Alto Networks: Cortex](https://www.youtube.com/watch?v=Mx93xlfVF34)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
