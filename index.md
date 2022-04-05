@@ -14,8 +14,13 @@ Extended detection and response or XDR is a new approach to threat detection and
 According to analyst firm Gartner, XDR is “a SaaS-based, vendor-specific, security threat detection and incident response tool that natively integrates multiple security products into a cohesive security operations system.” The definition of XDR from Forrester Research is a bit more expansive:  “The evolution of EDR, which optimizes threat detection, investigation, response, and hunting in real time. XDR unifies security-relevant endpoint detections with telemetry from security and business tools such as network analysis and visibility (NAV), email security, identity and access management, cloud security, and more. It is a cloud-native platform built on big data infrastructure to provide security teams with flexibility, scalability, and opportunities for automation.”
 
 
-## 
-
+## How Does XDR Work?
+XDR solutions bring a proactive approach to threat detection and response. It delivers visibility across all data, including endpoint, network, and cloud data, while applying analytics and automation to address today’s increasingly sophisticated threats. With XDR, cybersecurity teams can:
+* Identify hidden, stealthy and sophisticated threats proactively and quickly
+* Track threats across any source or location within the organization
+* Increase the productivity of the people operating the technology
+* Get more out of their security investments
+* Conclude investigations more efficiently 
 
 
 ![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
