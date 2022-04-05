@@ -22,8 +22,8 @@ XDR solutions bring a proactive approach to threat detection and response. It de
 * Get more out of their security investments
 * Conclude investigations more efficiently 
 
+![](https://i.ytimg.com/vi/x7yhRu6HGw4/maxresdefault.jpg)
 
-![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
 
 ## 5G to Make Headway
 
