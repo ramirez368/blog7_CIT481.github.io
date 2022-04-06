@@ -40,7 +40,7 @@ Basic platform components include:
 * Cortex XDR agents—software installed on endpoints that are used to collect and forward data. These agents can also perform local analyses and can consume WildFire threat intelligence for improved detection of threats. All collected data is also sent to the Data Lake for joint analysis.
 Different XDR security solutions offer different architectures. For information about McAfee XDR or Cisco XDR check out our in-depth guides.
 
-![] (https://www.paloaltonetworks.com/blog/wp-content/uploads/2019/03/TechDocs-Cortex-500x270.png)
+![](https://www.paloaltonetworks.com/blog/wp-content/uploads/2019/03/TechDocs-Cortex-500x270.png)
 
 ## Cortex XDR Key Capabilities: 
 Cortex XDR provides several key capabilities, designed to secure an organization’s networks and devices.
@@ -75,10 +75,10 @@ Cortex XSOAR (security orchestration, automation, and response) is a solution th
 
 The Cortex XSOAR solution enables organizations to define automation playbooks for incident response. These playbooks can be used to define actions across 370 third-party tools. Playbooks can also ingest incident data, access alerts, and update Cortex XDR incident fields.
 
-### Beyond XDR Security With Cynet’s Autonomous Breach Protection
+## Beyond XDR Security With Cynet’s Autonomous Breach Protection
 Cynet 360 is an autonomous breach protection platform that works in three levels, providing XDR, SOAR, and 24/7 MDR in one unified solution. Cynet natively integrates these three services into an end to end, fully-automated breach protection.
 
-Cynet’s XDR layer includes the following capabilities:
+## Cynet’s XDR layer includes the following capabilities:
 
 * Endpoint protection—multilayered protection against malware, ransomware, exploits and fileless attacks.
 * Network protection—protecting against scanning attacks, MITM, lateral movement and data exfiltration.
