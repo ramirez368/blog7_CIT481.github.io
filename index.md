@@ -39,6 +39,7 @@ Basic platform components include:
 * External firewalls and alerts—through integration, you can ingest external firewall logs and alerts into your Cortex XDR system. This is possible through the Cortex XDR API. These data points can then be combined with your Cortex data to provide more context for events and enable more thorough response.
 * Cortex XDR agents—software installed on endpoints that are used to collect and forward data. These agents can also perform local analyses and can consume WildFire threat intelligence for improved detection of threats. All collected data is also sent to the Data Lake for joint analysis.
 Different XDR security solutions offer different architectures. For information about McAfee XDR or Cisco XDR check out our in-depth guides.
+![] (https://www.paloaltonetworks.com/blog/wp-content/uploads/2019/03/TechDocs-Cortex-500x270.png)
 
 ## Cortex XDR Key Capabilities: 
 Cortex XDR provides several key capabilities, designed to secure an organization’s networks and devices.
